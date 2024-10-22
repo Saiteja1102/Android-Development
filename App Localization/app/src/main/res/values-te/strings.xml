@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Localization 01</string>
+    <string name="app_localization">యాప్ స్థానికీకరణ</string>
+    <string name="select_the_language">భాషను ఎంచుకోండి:</string>
+    <string name="sai_teja_goud">సాయి తేజ గౌడ్</string>
+    <string name="change_language">భాషను మార్చండి</string>
+</resources>

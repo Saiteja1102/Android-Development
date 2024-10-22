@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Localization 01</string>
+    <string name="app_localization">Localisation d applications</string>
+    <string name="select_the_language">Sélectionnez la langue :</string>
+    <string name="sai_teja_goud">Sai Teja Goud</string>
+    <string name="change_language">Changer de langue</string>
+</resources>

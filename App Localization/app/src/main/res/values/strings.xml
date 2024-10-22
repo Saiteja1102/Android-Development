@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Localization 01</string>
+    <string name="app_localization">App Localization</string>
+    <string name="select_the_language">Select the Language:</string>
+    <string name="sai_teja_goud">Sai Teja Goud</string>
+    <string name="change_language">Change Language</string>
+</resources>
