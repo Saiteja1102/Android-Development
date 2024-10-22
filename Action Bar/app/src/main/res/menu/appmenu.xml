@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Search"
+        android:title="Search"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/Google_Search"
+        android:title="Google Search"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Aboutus"
+        android:title="About Us"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Settings"
+        android:title="Settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/dashboard"
+        android:title="Dashboard"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/Sub1"
+                android:title="Sub 1"
+                app:showAsAction="never"
+                />
+            <item
+                android:id="@+id/Sub2"
+                android:title="Sub 2"
+                app:showAsAction="never"/>
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/CountactUs"
+        android:title="Contact Us"
+        app:showAsAction="never" />
+
+
+
+</menu>
