@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CA2 Restaurant App</string>
+    <string name="restaurant_app">రెస్టారెంట్ యాప్</string>
+    <string name="fill_the_details_for_restaurant_booking">రెస్టారెంట్ బుకింగ్ కోసం వివరాలను పూరించండి</string>
+    <string name="enter_date">తేదీని నమోదు చేయండి:</string>
+    <string name="enter_time">సమయాన్ని నమోదు చేయండి:</string>
+    <string name="total_number_of_persons">మొత్తం వ్యక్తుల సంఖ్య:</string>
+    <string name="enter_name">పేరు నమోదు చేయండి:</string>
+    <string name="i_agree_terms_and_conditions">నేను నిబంధనలు మరియు షరతులను అంగీకరిస్తున్నాను</string>
+    <string name="change_language">భాషను మార్చండి</string>
+    <string name="submit">సమర్పించండి</string>
+    <string name="language_selection">భాష ఎంపిక</string>
+    <string name="choose_your_prefered_nlanguage">మీకు నచ్చిన \nభాషను ఎంచుకోండి:</string>
+    <string name="hindi">హిందీ</string>
+    <string name="english">ఇంగ్లీష్</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="arabic">అరబిక్</string>
+    <string name="spanish">స్పానిష్</string>
+    <string name="change_language1">భాషను మార్చండి</string>
+    <string name="back">వెనుకకు</string>
+    <string name="hi"></string>
+</resources>

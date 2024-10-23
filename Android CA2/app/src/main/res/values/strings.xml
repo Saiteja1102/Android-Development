@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CA2 Restaurant App</string>
+    <string name="restaurant_app">Restaurant App</string>
+    <string name="fill_the_details_for_restaurant_booking">Fill the details for Restaurant Booking</string>
+    <string name="enter_date">Enter Date:</string>
+    <string name="enter_time">Enter Time:</string>
+    <string name="total_number_of_persons">Total Number of persons:</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="i_agree_terms_and_conditions">I agree Terms and Conditions</string>
+    <string name="change_language">Change Language</string>
+    <string name="submit">Submit</string>
+    <string name="language_selection">Language Selection</string>
+    <string name="choose_your_prefered_nlanguage">Choose your Prefered \nLanguage:</string>
+    <string name="hindi">Hindi</string>
+    <string name="english">English</string>
+    <string name="telugu">Telugu</string>
+    <string name="arabic">Arabic</string>
+    <string name="spanish">Spanish</string>
+    <string name="change_language1">Change Language</string>
+    <string name="back">Back</string>
+    <string name="hi"></string>
+</resources>

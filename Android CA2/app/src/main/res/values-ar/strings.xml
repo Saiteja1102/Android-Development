@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CA2 Restaurant App</string>
+    <string name="restaurant_app">تطبيق المطعم</string>
+    <string name="fill_the_details_for_restaurant_booking">املأ التفاصيل الخاصة بحجز المطعم</string>
+    <string name="enter_date">أدخل التاريخ:</string>
+    <string name="enter_time">أدخل الوقت:</string>
+    <string name="total_number_of_persons">العدد الإجمالي للأشخاص:</string>
+    <string name="enter_name">أدخل الاسم:</string>
+    <string name="i_agree_terms_and_conditions">أوافق على الشروط والأحكام</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="submit">يُقدِّم</string>
+    <string name="language_selection">اختيار اللغة</string>
+    <string name="choose_your_prefered_nlanguage">اختر \nلغتك المفضلة:</string>
+    <string name="hindi">الهندية</string>
+    <string name="english">إنجليزي</string>
+    <string name="telugu">التيلجو</string>
+    <string name="arabic">عربي</string>
+    <string name="spanish">الأسبانية</string>
+    <string name="change_language1">تغيير اللغة</string>
+    <string name="back">خلف</string>
+    <string name="hi"></string>
+</resources>
