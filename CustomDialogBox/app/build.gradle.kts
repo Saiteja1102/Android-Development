@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.alertdialog"
+    namespace = "com.example.customdialogbox"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.alertdialog"
+        applicationId = "com.example.customdialogbox"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
